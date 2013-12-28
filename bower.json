@@ -1,26 +1,23 @@
 {
-	"name": "Radio-demo",
-	"version": "0.0.0",
-	"authors": [
-		"Tanawat Tassana <amp.tanawat@gmail.com>"
-	],
-	"description": "Demo",
-	"keywords": [
-	],
-	"license": "MIT",
-	"ignore": [
-		"**/.*",
-		"node_modules",
-		"bower_components",
-		"test",
-		"tests"
-	],
-	"dependencies": {
-		"angular":"~1.2.0",
-		"angular-sanitize":"~1.2.0",
-		"angular-route":"~1.2.0",
-		"angular-touch":"~1.2.0"
-	},
-	"devDependencies": {
-	}
+    "name": "Radio",
+    "version": "0.1.0",
+    "authors": [
+        "Tanawat Tassana <amp.tanawat@gmail.com>"
+    ],
+    "description": "Leverage angular broadcasting system with easier listening for lazier listerners.",
+    "keywords": [
+    ],
+    "license": "MIT",
+    "ignore": [
+        "**/.*",
+        "node_modules",
+        "bower_components",
+        "test",
+        "tests"
+    ],
+    "dependencies": {
+        "angular":"~1.2.0"
+    },
+    "devDependencies": {
+    }
 }
